@@ -1,6 +1,6 @@
-### Hi there! I'm Constantin
+## Hi there! I'm Constantin
 
-TLDNR: I’m a language nerd who loves coding.
+### I’m a language nerd who loves coding.
 
 I come from a humanities background, namely political science,
 economics, and languages. Since 2017 I’ve been in the software
@@ -15,7 +15,7 @@ I’m looking forward to working on your next project!
 
 ### Feel free to reach out!
 
-[<img align="left" alt="linkedin" width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/a-arias/)&nbsp;&nbsp;&nbsp;[<img alt="email" width="29px" src="assets/gmail.png" />](mailto:andrea@spiced-academy.com)
+[<img align="left" alt="linkedin" width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/constantinrigu/)&nbsp;&nbsp;&nbsp;[<img alt="email" width="29px" src="assets/xing.jpeg" />](https://www.xing.com/profile/Constantin_Rigu)
 
 ### Some stats (and more to come)
 
