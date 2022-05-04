@@ -13,6 +13,8 @@ pivoted towards web development and this is my current focus.
 
 I’m looking forward to working on your next project!
 
+### For now my repos are private but I am working on refactoring and releasing them.
+
 ### Feel free to reach out!
 
 [<img align="left" alt="linkedin" width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/constantinrigu/)&nbsp;&nbsp;&nbsp;[<img alt="xing" width="25px" src="assets/xing.png" />](https://www.xing.com/profile/Constantin_Rigu)
