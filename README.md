@@ -21,4 +21,4 @@ I’m looking forward to working on your next project!
 
 ![](https://komarev.com/ghpvc/?username=Tinux-18&color=blue&style=plastic&label=👀)
 
-###  ⚠️ For now my repos are private but I am working on refactoring and releasing them. ⚠️
+###  ⚠️ For now most of my repos are private but I am working on refactoring and releasing them. ⚠️
