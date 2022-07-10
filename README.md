@@ -11,7 +11,7 @@ developer.
 My motto is to never stop learning. This is why in spring 2022 I
 pivoted towards web development and this is my current focus.
 
-I’m looking forward to working on your next project!
+<!--- I’m looking forward to working on your next project! --->
 
 ### Feel free to reach out!
 
@@ -20,5 +20,3 @@ I’m looking forward to working on your next project!
 ### Some stats (and more to come)
 
 ![](https://komarev.com/ghpvc/?username=Tinux-18&color=blue&style=plastic&label=👀)
-
-###  ⚠️ For now most of my repos are private but I am working on refactoring and releasing them. ⚠️
