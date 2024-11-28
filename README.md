@@ -8,8 +8,10 @@ development world, specifically machine learning and data engineering.
 I moved from student to project manager and finally landed on
 developer.
 
-My motto is to never stop learning. This is why in spring 2022 I
-pivoted towards web development and this is my current focus.
+My motto is *Never stop learning*.
+
+This is why I
+moved from Data Engineering to Full Stack Development and who knows where I'm going to land next.
 
 <!--- I’m looking forward to working on your next project! --->
 
