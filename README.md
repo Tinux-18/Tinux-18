@@ -17,7 +17,7 @@ moved from Data Engineering to Full Stack Development and who knows where I'm go
 
 ### Feel free to reach out
 
-[<img align="left" alt="email" width="25px" src="assets/email.png" />](mailto:constantin@indat.tech)&nbsp;&nbsp;&nbsp;[<img align="left" alt="linkedin" width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/constantinrigu/)&nbsp;&nbsp;&nbsp;[<img alt="xing" width="25px" src="assets/xing.png" />](https://www.xing.com/profile/Constantin_Rigu)
+[<img align="left" alt="email" width="25px" src="assets/email.png" />](mailto:constantin@indat.tech)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="left" alt="linkedin" width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/constantinrigu/)&nbsp;&nbsp;&nbsp;[<img alt="xing" width="25px" src="assets/xing.png" />](https://www.xing.com/profile/Constantin_Rigu)
 
 ### Some stats (and more to come)
 
