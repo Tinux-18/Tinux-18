@@ -10,9 +10,7 @@ developer.
 
 My motto is *Never stop learning*.
 
-This is why I
-moved from Data Engineering to Full Stack Development and who knows where I'm going to land next.
-
+This is why I also became involved in Full Stack Development. Maybe my next new foray will be your stack. 
 <!--- I’m looking forward to working on your next project! --->
 
 ### Feel free to reach out
